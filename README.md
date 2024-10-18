@@ -1,6 +1,7 @@
 # Dice Game
 
 This project is a simple dice game application where users can experience a dice rolling experience. When the user rolls the dice, they get a random value and this value is displayed on the screen.
+[Live Demo](https://dice-game-coral-pi.vercel.app/)
 
 ## Features
 
