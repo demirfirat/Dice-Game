@@ -21,3 +21,15 @@ This project is a simple dice game application where users can experience a dice
 ```
 https://github.com/demirfirat/Dice-Game.git
 ```
+2. Navigate to the project folder:
+```
+cd dice-game
+```
+3. Install dependencies:
+```
+npm install
+```
+4. Run the project:
+```
+npm run dev
+```
